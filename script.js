@@ -1,7 +1,7 @@
 const items = [
-  { title: "Eye Path", src: "assets/mockups/EyePath.webp", type: "product" },
-  { title: "Flyer", src: "assets/mockups/Flyer.webp", type: "print" },
-  { title: "Gift Package", src: "assets/mockups/GiftPackage.webp", type: "set" },
+  { title: "Sleep Mask Application", src: "assets/mockups/EyePath.webp", type: "product" },
+  { title: "Ritual Flyer", src: "assets/mockups/Flyer.webp", type: "print" },
+  { title: "Gift Package System", src: "assets/mockups/GiftPackage.webp", type: "set" },
   { title: "Night Cream Jar", src: "assets/mockups/NightCream.webp", type: "product" },
   { title: "Blue Tansy Night Cream", src: "assets/mockups/Night-Cream.webp", type: "product" },
   { title: "Night Cream Box", src: "assets/mockups/NightCreamBox.webp", type: "product" },
@@ -9,9 +9,9 @@ const items = [
   { title: "Pillow Mist Box", src: "assets/mockups/PillowMistBox.webp", type: "product" },
   { title: "Pillow Mist Set", src: "assets/mockups/PillowMistSet.webp", type: "set" },
   { title: "QR Ritual Card", src: "assets/mockups/QR.webp", type: "print" },
-  { title: "Sleep Set", src: "assets/mockups/SleepSet.webp", type: "set" },
-  { title: "Sleep Set Detail", src: "assets/mockups/SleepSet-2.webp", type: "set" },
-  { title: "Collection Moment", src: "assets/mockups/SleepSet-3.webp", type: "set" }
+  { title: "Collection Set", src: "assets/mockups/SleepSet.webp", type: "set" },
+  { title: "Editorial Product Scene", src: "assets/mockups/SleepSet-2.webp", type: "set" },
+  { title: "Product Benefit Layout", src: "assets/mockups/SleepSet-3.webp", type: "set" }
 ];
 
 const gallery = document.querySelector(".gallery");

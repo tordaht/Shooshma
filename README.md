@@ -1,12 +1,3 @@
-# SHOOSHMA Brand Presentation
+# SHOOSHMA Brand & Product Design Presentation
 
-Static HTML presentation for the SHOOSHMA sleep-wellness brand direction.
-
-## Files
-
-- `index.html` - presentation page
-- `styles.css` - responsive visual system
-- `script.js` - gallery, lightbox, progress and navigation behavior
-- `assets/` - optimized brand and mockup images
-
-Open `index.html` directly or serve the repository root as a static site.
+Self-contained static presentation for SHOOSHMA. The root `index.html` includes the presentation styles, interactions and embedded visual assets, so it can be opened directly or served via GitHub Pages.
